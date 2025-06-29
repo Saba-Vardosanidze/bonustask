@@ -46,7 +46,7 @@ const Card = () => {
                 </p>
               </div>
             </div>
-            <ul>
+            <ul className="flex flex-col gap-[8px]">
               <li className="flex gap-[117px]">
                 <p className="text-[36px] font-bold text-[#505050] max-w-[163px] w-full">
                   Age:
